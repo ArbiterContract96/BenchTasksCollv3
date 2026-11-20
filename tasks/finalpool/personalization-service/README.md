@@ -1,0 +1,6 @@
+# personalization-service
+
+- Implementor: lv
+- Status: implemented
+
+Collected into `tasks/finalpool`.
